@@ -1,0 +1,28 @@
+.hello{
+    background-color:honeydew;
+    margin-left: 80%;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;
+    color:blueviolet;
+    max-width: fit-content;
+}
+h2{
+    margin-right: 0%;
+    font-size: 20px;
+    font-weight: 900;
+    font-style: italic;
+    color:blueviolet;
+    max-width: fit-content;
+    background-color: honeydew;
+}
+
+/* section tags designs  */
+section {
+    background-color: blueviolet;
+    width: 2em;
+    padding: 1em;
+    margin: 0.1em;
+    border: 0.2em solid green;
+    font-size: 4em;
+}
